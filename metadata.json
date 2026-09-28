@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow - Personal Task Manager",
+  "description": "A clean, modern, and responsive task management application with secure user authentication, personal task dashboard, and seamless organization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
